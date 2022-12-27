@@ -21,6 +21,6 @@ function omad() {
     setTimeout(()=>{
         clearInterval(interval)
         btn.style.display = "lnline"
-        tel.innerHTML = "+998 91 347 0410"
+        // tel.innerHTML = "+998 91 347 0410"
     },2500)
 }
